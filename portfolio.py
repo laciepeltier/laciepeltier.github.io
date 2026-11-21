@@ -1,7 +1,5 @@
-from git import List
 import streamlit as st
 from typing import List, Dict
-import datetime as dt
 
 
 # PAGE SETUP
